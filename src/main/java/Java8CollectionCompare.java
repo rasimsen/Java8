@@ -3,7 +3,7 @@ import java.util.List;
 import java.util.ArrayList;
 import java.util.Comparator;
 
-public class Java8Tester0 {
+public class Java8CollectionCompare {
 
   public static void main(String args[]) {
 
@@ -21,7 +21,7 @@ public class Java8Tester0 {
     names2.add("Zonguldak ");
     names2.add("Bursa ");
 
-    Java8Tester0 tester = new Java8Tester0();
+    Java8CollectionCompare tester = new Java8CollectionCompare();
     System.out.println("Sort using Java 7 syntax: ");
 
     tester.sortUsingJava7(names1);

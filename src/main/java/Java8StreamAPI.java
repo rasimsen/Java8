@@ -86,27 +86,8 @@ public class Java8StreamAPI {
         .sorted()
         .forEach(System.out::println);
 
-    System.out.println(":::::::::::::::::::::::::::::::::::::::: rooster - predicate ::::::::::::::::::::::::::::::::::::::::");
 
-    String  payload = ACK_MSG;
-    Message ack = new Message(payload, "XML", "ACK");
-    ack.setCorrelationId("RSETT00000000392");
-
-    ackReceived(ack);
 
   }
-
-
-  private static Predicate<Message> ackAction;
-
-
-  public static void ackReceived(Message message) {
-    if (ackAction != null) {
-      ackAction.test(message);
-    }
-  }
-
-  private static final String ACK_MSG = "<AckNack><PseudoAckNack>{1:F21RSETFRPPAXXX000016000000004}{4:{177:1804171510}{451:0}{311:ACK}{108:RSETT00000000392"
-      + "}}</PseudoAckNack></AckNack>";
 
 }
