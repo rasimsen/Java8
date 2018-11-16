@@ -1,0 +1,64 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ÓÏöÚè,
+Zsquid:S1854$"7Remove this useless assignment to local variable "pre".(æ‘ìşÿÿÿÿ8‰ú¸Üè,
+Hsquid:S14815"*Remove this unused "liste" local variable.(‰˜¢²8˜Âßè,
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.( Ò±¨ûÿÿÿÿ8ÃÆ“ßè,
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(‰ÎŠüúÿÿÿÿ8‘Àößè,
+[
+squid:S106="9Replace this use of System.out or System.err by a logger.( Ò±¨ûÿÿÿÿ8°™íßè,
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.( Ò±¨ûÿÿÿÿ8½øßè,
+jsquid:S1192"GDefine a constant instead of duplicating this literal "Selami" 3 times.(ğº‹Şıÿÿÿÿ8±Ù¡ßè,
+Esquid:S14816"(Remove this unused "set" local variable.(âÉÛ08ó°Ëßè,
+Osquid:S1612?",Replace this lambda with a method reference.(‰ÎŠüúÿÿÿÿ8Ü¦õßè,
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(×œÙ8ÅöŠŞè,
+Ysquid:S1854"<Remove this useless assignment to local variable "filtered".(şÛ¾!8ª¸¤Üè,
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.( Ò±¨ûÿÿÿÿ8ğ‚Şè,
+1squid:S1220""Move this file to a named package.
+Œsquid:S1192""iDefine a constant instead of duplicating this literal "::::::::::::::::::::::::::::::::::::::::" 6 times.( Ò±¨ûÿÿÿÿ8–œãŞè,
+Jsquid:S1612)",Replace this lambda with a method reference.(×œÙ8ÅöŠŞè,
+Msquid:S14817"*Remove this unused "count" local variable.(Òíƒıÿÿÿÿ8ïõÍßè,
+Jsquid:S14818",Remove this unused "collect" local variable.(¨úò•8ÎÒÒßè,
+[
+squid:S106I"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¨Ñ‰àè,
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(µˆœÑ8»§ìßè,
+V
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ĞœİÅ8ÂÆˆàè,
+V
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(İß‹8‰Ñ“äè,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(î¼ùš8ËûèÛè,
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÂÆ“úÿÿÿÿ8‹ì£Üè,
+Osquid:S3958"2Refactor the code so this stream pipeline is used.(şÛ¾!8ª¸¤Üè,
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(œ¨èÿÿÿÿÿ8×üäŞè,
+[
+squid:S106W"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8ş´¸àè,
+Ysquid:S1854O"6Remove this useless assignment to local variable "s2".(¡ú£ıÿÿÿÿ8Ü©àè,
+Tsquid:S18546"7Remove this useless assignment to local variable "set".(âÉÛ08ó°Ëßè,
+Xsquid:S1854N"5Remove this useless assignment to local variable "s".(ıÕÄ¥üÿÿÿÿ8”®¨àè,
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.( Ò±¨ûÿÿÿÿ8ÛÜŞè,
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Ç‚ãÚşÿÿÿÿ8ÅÅƒŞè,
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Á”¦ûÿÿÿÿ8ùü‡Şè,
+[
+squid:S106-"9Replace this use of System.out or System.err by a logger.( Ò±¨ûÿÿÿÿ8–œãŞè,
+Ysquid:S18548";Remove this useless assignment to local variable "collect".(¨úò•8ÎÒÒßè,
+Ksquid:S1481$"(Remove this unused "pre" local variable.(æ‘ìşÿÿÿÿ8‰ú¸Üè,
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(Ï¨Åšúÿÿÿÿ8şïŸàè,
+Osquid:S1612:",Replace this lambda with a method reference.(‘âÅ¥ùÿÿÿÿ8ÂÅÜßè,
+Isquid:S1481N"&Remove this unused "s" local variable.(ıÕÄ¥üÿÿÿÿ8”®¨àè,
+Jsquid:S1481O"'Remove this unused "s2" local variable.(¡ú£ıÿÿÿÿ8Ü©àè,
+Wsquid:S18545"9Remove this useless assignment to local variable "liste".(‰˜¢²8˜Âßè,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë³Šÿüÿÿÿÿ8ª¸¤Üè,
+Jsquid:S1481"-Remove this unused "filtered" local variable.(şÛ¾!8ª¸¤Üè,
+\squid:S18547"9Remove this useless assignment to local variable "count".(Òíƒıÿÿÿÿ8ïõÍßè,

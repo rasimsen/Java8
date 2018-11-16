@@ -1,0 +1,36 @@
+
+Dsquid:S2201/"&The return value of "of" must be used.(ÆæÓ³8 Ü–—è,
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(œåÊİ
+Ksquid:S14815"(Remove this unused "now" local variable.(ˆ­”Úùÿÿÿÿ8éƒÙ±è,
+Psquid:S22018"-The return value of "getMinute" must be used.(Ñãõóüÿÿÿÿ8Ò©Ù±è,
+_squid:S1854;"<Remove this useless assignment to local variable "midnight".(ÓÍ°Ğüÿÿÿÿ8ÎòŞ±è,
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(¯ù¤œ8¿·ú–è,
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÈ‚
+Tsquid:S1197
+"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(áéŒÎùÿÿÿÿ
+T
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ï…É¦øÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ş©ë¯
+T
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ï…É¦øÿÿÿÿ
+Ksquid:S1611#"5Remove the parentheses around the "message" parameter(ã—;
+Gsquid:S2201@")The return value of "minus" must be used.(üÃË—8·’Ú±è,
+Isquid:S22010"&The return value of "of" must be used.(è’ãºøÿÿÿÿ8 Ü–—è,
+Psquid:S22019"-The return value of "getSecond" must be used.(’íşÿÿÿÿ8Ò©Ù±è,
+[
+squid:S106C"9Replace this use of System.out or System.err by a logger.(İ¸ºñúÿÿÿÿ8»şâ±è,
+Vsquid:S1854:"8Remove this useless assignment to local variable "noon".(‡ãÏ8­àİ±è,
+1squid:S1220""Move this file to a named package.
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Íüæ¡ÿÿÿÿÿ8ïÎñ–è,
+Gsquid:S1481:")Remove this unused "noon" local variable.(‡ãÏ8­àİ±è,
+Lsquid:S2201<")The return value of "parse" must be used.(¥øú”ûÿÿÿÿ8Ò©Ù±è,
+Zsquid:S18545"7Remove this useless assignment to local variable "now".(ˆ­”Úùÿÿÿÿ8éƒÙ±è,
+Psquid:S1481;"-Remove this unused "midnight" local variable.(ÓÍ°Ğüÿÿÿÿ8ÎòŞ±è,
+Hsquid:S22017"+The return value of "getHour" must be used.(œƒ)8Ò©Ù±è,

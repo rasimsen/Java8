@@ -1,0 +1,15 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ØÜØ«8òâ•è,
+|squid:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆê…Şÿÿÿÿÿ8òâ•è,
+[squid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8òâ•è,
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(­ÌŸ©ıÿÿÿÿ8òâ•è,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ôŸ®˜üÿÿÿÿ8òâ•è,
+V
+squid:S106 "9Replace this use of System.out or System.err by a logger.(½É¿ì8òâ•è,
+1squid:S1220""Move this file to a named package.
+Fsquid:S1604%"(Make this anonymous inner class a lambda(–ÜÜ„8òâ•è,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(šş÷ù8òâ•è,
